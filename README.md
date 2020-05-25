@@ -1,0 +1,7 @@
+# Hops-Alpha-Acids-Regression
+A research paper focusing on how environmental factors influence the amount of alpha acids in a hop plant. Simple linear regression was used to analyze the relationship between soil nutrient supply rates and hop alpha acid content.  The research focuses more on the methodology of how to study environmental influence on hop plants as opposed to obtaining meaningful results.  The research paper itself can be found in the pdf file above.  The entirety of the analysis was conducted in Excel.  
+
+This research paper was made possible by collaboration with the chemistry department at Sonoma State University, the NorCal Hop Growers Alliance, and Western Ag.  The data on alpha acid content was obtained from the chemistry department at Sonoma State University.  The farms used in the study belonged to farmers of the Norcal Hop Growers Alliance.  Plant nutrient uptake rates were measured using Plant Root
+Simulator (PRS) probes, provided by Western Ag Innovations through a grant that I applied for and received.  The research was presented in the form of a research poster at an undergraduate research symposium.
+
+This was my first intensive research paper.  I collected all soil samples and the entire research paper was written by me.  Ryan Schindler (from the chemistry department) was the main collaborator who developed his own method of extracting alpha acids from hop samples (where the data on alpha acid content was retreived from).
